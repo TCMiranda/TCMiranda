@@ -9,3 +9,5 @@ To know better about me, take a look into:
 - [Gravatar](https://gravatar.com/tgcvmr)
 
 AKA: Tiago de Carvalho Miranda | TCMiranda | tiagosemoh | tgcvmr
+
+[![Tiago de Carvalho Miranda Github Stats](https://github-readme-stats.vercel.app/api?username=TCMiranda)](https://github.com/TCMiranda)
